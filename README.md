@@ -20,6 +20,11 @@ Designed and developed an interactive Sales Overview Dashboard to analyze busine
 * Dynamic filtering and cross-highlighting across all report visuals.
 * Performance-focused DAX calculations for KPI tracking and trend analysis.
 
+## Dashboard Reports
+
+<img width="1151" height="652" alt="Sales_by_Product_Report page" src="https://github.com/user-attachments/assets/2ed51637-daba-43a2-97f1-51bdde2f29f9" />
+<img width="1147" height="651" alt="Sales_By_Region_Report_Page" src="https://github.com/user-attachments/assets/17b53bbd-a8f8-495d-b467-54a905d5cd33" />
+
 ## Data Modeling & Transformation
 
 * Performed data cleaning, validation, and quality checks using Power Query.
