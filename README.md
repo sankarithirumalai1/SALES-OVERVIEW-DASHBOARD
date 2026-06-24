@@ -1,5 +1,5 @@
 
-# Sales Overview Dashboard | Power BI
+# Sales Overview Analysis| Power BI + SQL
 
 ## Project Overview
 
