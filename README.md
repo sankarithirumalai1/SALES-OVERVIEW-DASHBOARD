@@ -3,11 +3,11 @@
 
 ## Project Overview
 
-Designed and developed an interactive Sales Overview Dashboard to analyze business performance across multiple regions (Central, East, South, and West). The solution enables business users to monitor Sales, Profit, and Quantity metrics through dynamic KPI selection, year-based filtering, and year-over-year performance comparison.
+Designed and developed an interactive Sales Overview Dashboard to analyze business performance across multiple regions (Central, East, South, and West). The solution enables business users to monitor Sales, Profit, and Quantity metrics through dynamic KPI selection, year-based filtering, and year-over-year performance comparison. 
 
 ## Dataset Used
 
-Sales Overview Data.xlsx
+ * [Sales Dataset](Dataset/Sales_Data.xlsx)
 
 
 ## Key Features
